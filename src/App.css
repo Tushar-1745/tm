@@ -42,9 +42,9 @@
 body {
   margin: 0;
   padding: 0;
-  /* background: url('https://wallpapers.com/images/hd/stars-on-wavy-blue-background-jwbrdvq4robq00ws.jpg') no-repeat center center fixed; */
+  background: url('https://wallpapers.com/images/hd/stars-on-wavy-blue-background-jwbrdvq4robq00ws.jpg') no-repeat center center fixed;
   /* background: url('https://png.pngtree.com/thumb_back/fh260/background/20210630/pngtree-blue-rays-abstract-background-image_734893.jpg') no-repeat center center fixed; */
-  background: url('E:\React JS\tushar\src\pictures\bgImage.jpg') no-repeat center center fixed;
+  /* background: url('E:\React JS\tushar\src\pictures\bgImage.jpg') no-repeat center center fixed; */
   background-size: cover;
   height: 100vh;
 }
